@@ -1,0 +1,3 @@
+[submodule "Plugins/PsIronSource"]
+	path = Plugins/PsIronSource
+	url = git@github.com:PushkinStudio/PsIronSource.git
